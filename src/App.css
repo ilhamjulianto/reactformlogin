@@ -1,7 +1,9 @@
+/*ini lebih baik dihapus*/
 .App {
   text-align: center;
 }
 
+/*lebih baik animasinya ease-in*/
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
   height: 80px;
